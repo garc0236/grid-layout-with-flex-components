@@ -28,7 +28,7 @@ body {
 
   .emojis {
       display:grid;
-      grid-template-rows: repeat(2,25%);
-      grid-template-columns: repeat(2, 25%);
+      grid-template-columns: repeat(2, 30%);
       gap: 15px;
+      grid-auto-rows: 300px;
   }
